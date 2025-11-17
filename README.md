@@ -63,9 +63,9 @@
 ⚙️ Demonstrates growth analytics and workflow automation skills.
 
 ### 📫 How to reach me: 
-📩 [dipdhrusingh@gmail.com][dipdhrusingh@gmail.com]
-💻 [GitHub](https://github.com/dipdhru/)
-🌐 [LinkedIn](https://www.linkedin.com/in/dipanshu-singh-b94384174/)
+!📩 [dipdhrusingh@gmail.com][dipdhrusingh@gmail.com]
+!💻 [GitHub](https://github.com/dipdhru/)
+!🌐 [LinkedIn](https://www.linkedin.com/in/dipanshu-singh-b94384174/)
 
 
 ⚡ Fun facts:
