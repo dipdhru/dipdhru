@@ -5,25 +5,20 @@
 
 🚀 Snippet of Me : 
 
-*I’m bullish on Data Science, AI and Machine Learning and how it evolves.*
-*I build ML pipelines, AI-powered apps, and end-to-end data workflows that turn raw chaos into clarity.*
-*A curious mind moving through the world with logic, poetry, and a love for patterns (well this is I crave mostly, belive me or not I'm in a complicated relationship with correlation matrixes).*
+*I’m bullish on Data Science, AI, and Machine Learning as they evolve. I build ML pipelines, AI-powered apps, and end-to-end workflows that turn raw chaos into clarity. A curious mind wandering the world with logic, poetry, and a love for patterns (I’m in a committed but complicated relationship with correlation matrices).*
 
 
-🧩 My focus areas are :
+🧩 My Focus Areas
+ - Data Collection & Exploration 🔎
+ - Machine Learning & Deep Learning 🤖
+ - NLP & LLM Applications 🧠
+ - Data Engineering & Pipelines 🚉
+ - Analytics, Dashboards & Visualization 📊
 
-- Data Collection and Exploration 🔎
-- Machine Learning & Deep Learning 🤖
-- NLP & LLM applications 🧠
-- Data Engineering & Pipelines 🚉
-- Analytics, Dashboards & Visualization 📊
-
-📌 Where am I busy nowday's?
-
-- 🔭 I’m currently working on building RAG Based model in Medical Science domain.
-- 🧱 I have build some quite decent models to predict Housing Prices in India
-- 🌱 I'm currently learning about AI and agents.
-- 👯 I’m looking to collaborate on AI in the field of Medical Sciences
+📌 What I’m Busy With Nowadays
+- 🔭 Building a RAG-based model for the medical science domain 
+- 🌱 Learning about AI agents
+- 👯 Looking to collaborate on AI in healthcare
 
 ### 🛠️ Tech Toolbox
 
@@ -69,7 +64,7 @@
 
 
 
-⚡ Fun facts:
+### ⚡ Fun Facts
 - 🔍 I spot outliers in life faster than in any dataset.
 - ☕ My brain runs on Python, coffee, and curiosity.
 - 🔧 I break models just to rebuild them better.
