@@ -11,6 +11,13 @@ Currently focused on **NLP, RAG systems, and applied ML in healthcare**.
 
 📌 Looking for: ML / Data Science roles, AI research collaboration
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat)
+![RAG](https://img.shields.io/badge/RAG-0B7285?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat)
+
 🧩 My Focus Areas
  - Data Collection & Exploration 🔎
  - Machine Learning & Deep Learning 🤖
@@ -44,12 +51,7 @@ Currently focused on **NLP, RAG systems, and applied ML in healthcare**.
 - Zapier, n8n  
 - Streamlit / FastAPI (for ML apps)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat)
-![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat)
-![RAG](https://img.shields.io/badge/RAG-0B7285?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat)
+
 
 
 
