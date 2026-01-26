@@ -1,10 +1,15 @@
-## Hi there 👋 Dipanshu Singh here!!
+## 👋 Hi, I’m Dipanshu Singh
 
-🎓 MSc Data Science, AI & Machine Learning
-📍 Based in Berlin, Germany
+🚀 Data Scientist | ML & AI Engineer | MSc Data Science (Berlin)
 
-🚀 *I’m bullish on Data Science, AI, and Machine Learning as they evolve. I build ML pipelines, AI-powered apps, and end-to-end workflows that turn raw chaos into clarity. A curious mind wandering the world with logic, poetry, and a love for patterns (I’m in a committed but complicated relationship with correlation matrices).*
+I build **end-to-end ML systems** — from messy data → models → deployed apps.  
+Currently focused on **NLP, RAG systems, and applied ML in healthcare**.
 
+🔹 2.5+ years industry experience  
+🔹 Strong in Python, SQL, ML pipelines, analytics  
+🔹 Comfortable with both **business + engineering**
+
+📌 Looking for: ML / Data Science roles, AI research collaboration
 
 🧩 My Focus Areas
  - Data Collection & Exploration 🔎
@@ -18,42 +23,35 @@
 - 🌱 Learning about AI agents
 - 👯 Looking to collaborate on AI in healthcare
 
-### 🛠️ Tech Toolbox
+### 🛠 Tech Stack (Applied & Production-Oriented)
 
-**Languages & Libraries**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+**Core Languages & Data**
+- Python, SQL  
+- Pandas, NumPy  
 
-**Visualization & Reporting**  
-![Seaborn](https://img.shields.io/badge/Seaborn-7A68A6?style=flat)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+**Machine Learning & AI**
+- Scikit-learn  
+- NLP (spaCy, NLTK)  
+- Retrieval-Augmented Generation (RAG)  
+- Feature Engineering, Model Evaluation  
 
-**Automation & Tools**  
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4C89?style=flat&logo=n8n&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=flat&logo=semrush&logoColor=white)
+**Visualization & Analytics**
+- Matplotlib, Seaborn  
+- Tableau, Power BI, Excel  
+
+**Pipelines, Automation & Dev**
+- Git, GitHub  
+- Zapier, n8n  
+- Streamlit / FastAPI (for ML apps)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat)
+![RAG](https://img.shields.io/badge/RAG-0B7285?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat)
 
 
-### 📈 Featured Projects
-
-🔹 **[Data-Driven Operations Optimization on Last Mile Data]()**  
-📦 Built regression models to predict delivery ETAs and identify logistics inefficiencies.  
-🌦️ Integrated weather and traffic data for improved prediction accuracy (85%+).  
-📊 Delivered actionable dashboards for performance tracking.
-
-🔹 **[Marketing Analytics Automation]()**  
-🤖 Designed an automated workflow using **Python + Zapier** to collect and analyze engagement data.  
-📈 Generated weekly Power BI reports for campaign insights.  
-⚙️ Demonstrates growth analytics and workflow automation skills.
 
 ### 📫 How to reach me: 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dipdhru)
