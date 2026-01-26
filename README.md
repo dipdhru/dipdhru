@@ -7,6 +7,8 @@
 I build **end-to-end ML systems** — from messy data → models → deployed apps.  
 Currently focused on **NLP, RAG systems, and applied ML in healthcare**.
 
+***Open to collaboration on applied AI in healthcare 🧬***
+
 🔹 2.5+ years industry experience  
 🔹 Strong in Python, SQL, ML pipelines, analytics  
 🔹 Comfortable with both **business + engineering**
@@ -28,38 +30,16 @@ Currently focused on **NLP, RAG systems, and applied ML in healthcare**.
  - Analytics, Dashboards & Visualization 📊
 
 📌 What I’m Busy With Nowadays
-- 🔭 Building a RAG-based model for the medical science domain 
-- 🌱 Learning about AI agents
-- 👯 Looking to collaborate on AI in healthcare
+- 👯 Looking to collaborate on AI in healthcare 🔭
 
 ### 🛠 Tech Stack (Applied & Production-Oriented)
 
-**Core Languages & Data**
-- Python, SQL  
-- Pandas, NumPy  
-
-**Machine Learning & AI**
-- Scikit-learn  
-- NLP (spaCy, NLTK)  
-- Retrieval-Augmented Generation (RAG)  
-- Feature Engineering, Model Evaluation  
-
-**Visualization & Analytics**
-- Matplotlib, Seaborn  
-- Tableau, Power BI, Excel  
-
-**Pipelines, Automation & Dev**
-- Git, GitHub  
-- Zapier, n8n  
-- Streamlit / FastAPI (for ML apps)
-
-
-
-
-
-### 📫 How to reach me: 
-
-
+| Category | Tools & Skills |
+|--------|----------------|
+| **Core Languages & Data** | Python, SQL, Pandas, NumPy |
+| **Machine Learning & AI** | Scikit-learn, NLP (spaCy, NLTK), Retrieval-Augmented Generation (RAG), Feature Engineering, Model Evaluation |
+| **Visualization & Analytics** | Matplotlib, Seaborn, Tableau, Power BI, Excel |
+| **Pipelines, Automation & Dev** | Git, GitHub, Zapier, n8n, Streamlit, FastAPI |
 
 
 ### ⚡ Fun Facts
