@@ -1,16 +1,16 @@
 ## 👋 Hi, I’m Dipanshu Singh
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-singh-b94384174/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dipdhrusingh@gmail.com)
 
 🚀 Data Scientist | ML & AI Engineer | MSc Data Science (Berlin)
 
-I build **end-to-end ML systems** — from messy data → models → deployed apps.  
+I build **end-to-end ML systems** — from messy data → models → deployed apps. 
 Currently focused on **NLP, RAG systems, and applied ML in healthcare**.
+📌 Open to collaboration on **applied AI in healthcare** 🧬
 
-***Open to collaboration on applied AI in healthcare 🧬***
-
-🔹 2.5+ years industry experience  
-🔹 Strong in Python, SQL, ML pipelines, analytics  
+🔹 2.5+ years industry experience (enterprise SaaS, analytics & ML)
+🔹 Strong in Python, SQL, ML pipelines, and applied analytics
 🔹 Comfortable with both **business + engineering**
 
 📌 Looking for: ML / Data Science roles, AI research collaboration
@@ -23,14 +23,11 @@ Currently focused on **NLP, RAG systems, and applied ML in healthcare**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat)
 
 🧩 My Focus Areas
- - Data Collection & Exploration 🔎
- - Machine Learning & Deep Learning 🤖
- - NLP & LLM Applications 🧠
- - Data Engineering & Pipelines 🚉
- - Analytics, Dashboards & Visualization 📊
-
-📌 What I’m Busy With Nowadays
-- 👯 Looking to collaborate on AI in healthcare 🔭
+- Data Collection, Cleaning & Exploratory Analysis  
+- Machine Learning & Applied Deep Learning  
+- NLP & LLM-based Applications (RAG)  
+- Data Engineering & ML Pipelines  
+- Analytics, Dashboards & Decision Support
 
 ### 🛠 Tech Stack (Applied & Production-Oriented)
 
