@@ -3,8 +3,7 @@
 🎓 MSc Data Science, AI & Machine Learning
 📍 Based in Berlin, Germany
 
-🚀 Snippet of Me : 
-*I’m bullish on Data Science, AI, and Machine Learning as they evolve. I build ML pipelines, AI-powered apps, and end-to-end workflows that turn raw chaos into clarity. A curious mind wandering the world with logic, poetry, and a love for patterns (I’m in a committed but complicated relationship with correlation matrices).*
+🚀 *I’m bullish on Data Science, AI, and Machine Learning as they evolve. I build ML pipelines, AI-powered apps, and end-to-end workflows that turn raw chaos into clarity. A curious mind wandering the world with logic, poetry, and a love for patterns (I’m in a committed but complicated relationship with correlation matrices).*
 
 
 🧩 My Focus Areas
