@@ -39,6 +39,20 @@ Currently focused on **NLP, RAG systems, and applied ML in healthcare**.
 | **Pipelines, Automation & Dev** | Git, GitHub, Zapier, n8n, Streamlit, FastAPI |
 
 
+## 🚀 Featured Projects
+
+### [AI Job Automation Risk Analyzer](https://github.com/dipdhru/ai-job-automation-risk-nlp)
+NLP-powered tool analyzing 1000+ job descriptions to quantify automation exposure  
+🔗 [**Live Demo**](https://ai-job-automation-risk-nlp.streamlit.app/) | 📊 Python, NLP, spaCy, Streamlit
+
+### [Medical Chatbot (RAG)](https://github.com/dipdhru/medical_chatbot_rag)
+End-to-end RAG pipeline using LLaMA-based LLMs for medical Q&A  
+🧬 Python, LangChain, Vector DB, LLMs
+
+### [House Price Predictor](https://github.com/dipdhru/house_price_prediction_ml_modal)
+Multi-city regression analysis for Indian real estate  
+🔗 [**Live Demo**](https://housepricepredictionmlmodal.streamlit.app/) | 📈 Python, Scikit-learn, Streamlit
+
 ### ⚡ Fun Facts
 - 🔍 I spot outliers in life faster than in any dataset.
 - ☕ My brain runs on Python, coffee, and curiosity.
