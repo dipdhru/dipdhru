@@ -9,11 +9,15 @@ I build **end-to-end ML systems** — from messy data → models → deployed ap
 Currently focused on **NLP, RAG systems, and applied ML in healthcare**.
 📌 Open to collaboration on **applied AI in healthcare** 🧬
 
-🔹 2.5+ years industry experience (enterprise SaaS, analytics & ML)
+🔹 2.5+ years industry experience: increased product adoption by 10% QoQ, drove 15% revenue uplift
+🔹 Built BI dashboards for 25+ enterprise clients (Acer, Apple, Godrej, Reliance)
 🔹 Strong in Python, SQL, ML pipelines, and applied analytics
 🔹 Comfortable with both **business + engineering**
 
-📌 Looking for: ML / Data Science roles, AI research collaboration
+🎯 Currently Seeking: Junior ML Engineer / Data Scientist roles in Berlin/EU
+🔨 Building: RAG-based medical Q&A system with LLaMA
+📚 Learning: MLOps, Model Deployment, Advanced NLP
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat)
