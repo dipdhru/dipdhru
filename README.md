@@ -51,7 +51,9 @@ NLP-powered tool analyzing 1000+ job descriptions to quantify automation exposur
 
 ### [Medical Chatbot (RAG)](https://github.com/dipdhru/medical_chatbot_rag)
 End-to-end RAG pipeline using LLaMA-based LLMs for medical Q&A  
-🧬 Python, LangChain, Vector DB, LLMs
+🔗 [**Live Demo**](https://huggingface.co/spaces/dipdhrusingh/medical-chatbot) | 🧬 Python, LangChain, Vector DB, LLMs
+
+
 
 ### [House Price Predictor](https://github.com/dipdhru/house_price_prediction_ml_modal)
 Multi-city regression analysis for Indian real estate  
