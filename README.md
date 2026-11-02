@@ -5,7 +5,7 @@
 
 🚀 AI Engineer | Data Scientist | ML Practitioner | MSc Data Science and AI (Berlin)
 
-I build **end-to-end ML systems** — from messy data → models → deployed apps. 
+I build **end-to-end AI tools & ML systems** — from messy data → models → deployed apps. 
 Currently focused on **NLP, RAG systems, & applied ML in healthcare**.
 📌 Open to collaboration on **applied AI in healthcare** 🧬
 
