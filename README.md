@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-s-b94384174/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dipdhrusingh@gmail.com)
 
-🚀 Data Scientist | ML & AI Engineer | MSc Data Science (Berlin)
+🚀 AI Engineer | Data Scientist | ML Practitioner | MSc Data Science and AI (Berlin)
 
 I build **end-to-end ML systems** — from messy data → models → deployed apps. 
 Currently focused on **NLP, RAG systems, & applied ML in healthcare**.
