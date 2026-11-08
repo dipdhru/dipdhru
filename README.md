@@ -20,7 +20,7 @@ I build end-to-end AI and ML systems, from messy data to models to deployed apps
 | Project | What it does | Focus | Demo |
 |---|---|---|---|
 | **[DataAnalyst AI Agent](https://github.com/dipdhru/DataAnalyst_AI_Agent)** | Connect a database or upload CSV/Excel, ask in plain English, and get SQL, tables and charts. Optional double-check mode flags disagreements, measured on a public benchmark. | LLM agents, Text-to-SQL, Docker, evals | |
-| **[Medical Chatbot](https://github.com/dipdhru/medical_chatbot_rag)** | End-to-end RAG pipeline for medical Q&A using LLaMA-based LLMs, semantic search and a vector database. | RAG, LangChain, vector DB | [Live](https://huggingface.co/spaces/dipdhrusingh/medical-chatbot) |
+| **[Medical Chatbot](https://github.com/dipdhru/medical_chatbot_rag)** | RAG over 16,407 NIH Q&A pairs with cited answers. Finds the right condition in the top 3 for 86% of lay-language test questions and refuses 17 of 20 off-topic ones. | RAG, FAISS, retrieval evaluation, CI | [Live](https://huggingface.co/spaces/dipdhrusingh/medical-chatbot) |
 | **[Olist Analytics Agent](https://github.com/dipdhru/olist-ai-agent)** | Text-to-SQL agent over the Olist Brazilian e-commerce dataset, with retrieval, evaluation and a Streamlit UI. | Text-to-SQL, retrieval, evaluation | |
 
 ### Machine learning & deep learning
