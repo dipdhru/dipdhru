@@ -27,7 +27,7 @@ I build end-to-end AI and ML systems, from messy data to models to deployed apps
 
 | Project | What it does | Focus | Demo |
 |---|---|---|---|
-| **[Berlin Temperature Forecasting](https://github.com/dipdhru/berlin-temperature-forecasting)** | MSc thesis: 7-day forecasts comparing BiLSTM, Transformer and Prophet under leakage-controlled rolling-origin evaluation, with tests and CI. | Time series, TensorFlow/Keras, Prophet | |
+| **[Berlin Temperature Forecasting](https://github.com/dipdhru/berlin-temperature-forecasting)** | 7-day forecasts comparing BiLSTM, Transformer and Prophet under leakage-controlled rolling-origin evaluation, with tests and CI. | Time series, TensorFlow/Keras, Prophet | |
 | **[Music Genre Classification](https://github.com/dipdhru/music_genere_diversification)** | Multi-modal classifier combining Spotify acoustic features with lyrics to reduce genre overlap. | Multi-modal ML, NLP | |
 | **[House Price Predictor](https://github.com/dipdhru/house_price_prediction_ml_modal)** | Predicts house prices in major Indian cities with an XGBoost regression model and a Streamlit front end. | Regression, XGBoost, Streamlit | [Live](https://housepricepredictionmlmodal.streamlit.app/) |
 | **[Air Pollution Forecasting](https://github.com/dipdhru/air-pollution-lstm-prediction)** | PM2.5 forecasting with an LSTM on historical time series data. | Time series, LSTM | |
