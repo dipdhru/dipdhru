@@ -2,6 +2,7 @@
 
 **AI Engineer & Data Scientist** · MSc Data Science and AI, Berlin
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dipdhru.github.io-f2a33a?style=flat&logo=githubpages&logoColor=white)](https://dipdhru.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-s-b94384174/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dipdhrusingh@gmail.com)
 
