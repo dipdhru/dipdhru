@@ -10,8 +10,9 @@ I build end-to-end AI and ML systems, from messy data to models to deployed apps
 
 **Looking for:** Junior ML Engineer or Data Scientist roles in Berlin/EU
 
-- 2.5+ years of industry experience: increased product adoption by 10% QoQ and drove a 15% revenue uplift
-- Built BI dashboards for 25+ enterprise clients, including Acer, Apple, Godrej and Reliance
+- 3+ years of enterprise experience in B2B SaaS: built 25+ Qlik Sense BI dashboards and automated 70% of reporting workflows
+- Delivered insights that contributed to a 15% quarterly revenue uplift and 20% churn reduction across clients including Acer, Apple, Godrej and Reliance
+- Led 40+ enterprise software implementations and grew product usage by ~10% QoQ
 - Comfortable across business and engineering
 
 ## Projects
@@ -49,6 +50,6 @@ I build end-to-end AI and ML systems, from messy data to models to deployed apps
 | **Machine learning** | Scikit-learn, TensorFlow/Keras, Prophet, feature engineering, model evaluation |
 | **NLP & LLMs** | spaCy, NLTK, LangChain, RAG |
 | **Deployment & pipelines** | FastAPI, Streamlit, Docker, Git, n8n, Zapier |
-| **Analytics** | Tableau, Power BI, Excel, Matplotlib, Seaborn |
+| **Analytics** | Qlik Sense, Tableau, Power BI, Excel, Matplotlib, Seaborn |
 
 **Learning now:** MLOps, model deployment and LLM evaluation
